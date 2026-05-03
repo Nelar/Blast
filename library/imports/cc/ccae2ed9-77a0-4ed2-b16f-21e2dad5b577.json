@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "level-config",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "width": 9,
+    "height": 10,
+    "targetScore": 500,
+    "startMoves": 37,
+    "minGroupSize": 2,
+    "maxShuffles": 3,
+    "boosterBombRadius": 2,
+    "tileBombRadius": 1,
+    "superTileLineRequirement": 4,
+    "scorePerTile": 1,
+    "scoreSpecialMultiplier": 5,
+    "boosterBombCount": 3,
+    "boosterTeleportCount": 3,
+    "colors": [
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "purple"
+    ]
+  }
+}
