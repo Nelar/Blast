@@ -104,7 +104,8 @@
         "cocos-services"
       ]
     },
-    " common-asset-worker-worker": {}
+    " common-asset-worker-worker": {},
+    "window-1777832758655": {}
   },
   "panels": {
     "sprite-editor": {
